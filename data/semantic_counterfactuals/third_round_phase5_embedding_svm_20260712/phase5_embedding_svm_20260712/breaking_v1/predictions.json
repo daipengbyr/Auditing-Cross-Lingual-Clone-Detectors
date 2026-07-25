@@ -1,0 +1,1694 @@
+[
+  {
+    "pair_id": "d69ea5d0b62f37d8",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02696",
+    "problem_id_b": "p02696",
+    "prediction_text": "no",
+    "prob_yes": 0.0085,
+    "confidence": 4.7533,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "8eb31514f1f85de7",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02612",
+    "problem_id_b": "p02612",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 16.4783,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "c2b34d451254695b",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02852",
+    "problem_id_b": "p02852",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 21.0216,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "f1a0701cdaf1e491",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p03000",
+    "problem_id_b": "p03000",
+    "prediction_text": "no",
+    "prob_yes": 0.1366,
+    "confidence": 1.8435,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "419ad3d0d9fd6ddc",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02823",
+    "problem_id_b": "p02823",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 15.4139,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "fd484bd3c27b6791",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02823",
+    "problem_id_b": "p02823",
+    "prediction_text": "yes",
+    "prob_yes": 0.9994,
+    "confidence": 7.417,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "353fac79bb91d055",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02898",
+    "problem_id_b": "p02898",
+    "prediction_text": "yes",
+    "prob_yes": 0.9998,
+    "confidence": 8.3058,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "6fc8b25288197f12",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p03162",
+    "problem_id_b": "p03162",
+    "prediction_text": "no",
+    "prob_yes": 0.1347,
+    "confidence": 1.86,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "e66d6ca661fe07b0",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02927",
+    "problem_id_b": "p02927",
+    "prediction_text": "yes",
+    "prob_yes": 0.9217,
+    "confidence": 2.4653,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "84a96b208be35245",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p03293",
+    "problem_id_b": "p03293",
+    "prediction_text": "yes",
+    "prob_yes": 0.7828,
+    "confidence": 1.2822,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "a6947fbaeb52e9b2",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p03267",
+    "problem_id_b": "p03267",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 13.6756,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "47a0691d2c8ddfe5",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02852",
+    "problem_id_b": "p02852",
+    "prediction_text": "yes",
+    "prob_yes": 0.7713,
+    "confidence": 1.2158,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "bcd4c573e882ff61",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p03262",
+    "problem_id_b": "p03262",
+    "prediction_text": "no",
+    "prob_yes": 0.007,
+    "confidence": 4.9506,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "3b0359914a0ff943",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02797",
+    "problem_id_b": "p02797",
+    "prediction_text": "yes",
+    "prob_yes": 0.9451,
+    "confidence": 2.8462,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "97ce03591c121206",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02957",
+    "problem_id_b": "p02957",
+    "prediction_text": "yes",
+    "prob_yes": 0.9995,
+    "confidence": 7.6066,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "44bcb1784eeb25cb",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02696",
+    "problem_id_b": "p02696",
+    "prediction_text": "no",
+    "prob_yes": 0.0131,
+    "confidence": 4.3183,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "2addfffb9a0d8ed5",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02399",
+    "problem_id_b": "p02399",
+    "prediction_text": "no",
+    "prob_yes": 0.0,
+    "confidence": 11.5757,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "f7102b37e46d6e1b",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02985",
+    "problem_id_b": "p02985",
+    "prediction_text": "yes",
+    "prob_yes": 0.9614,
+    "confidence": 3.2146,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "2b08916b55df2ba4",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02741",
+    "problem_id_b": "p02741",
+    "prediction_text": "yes",
+    "prob_yes": 0.99,
+    "confidence": 4.5933,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "b76fb2d7eb138f6f",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02898",
+    "problem_id_b": "p02898",
+    "prediction_text": "no",
+    "prob_yes": 0.0052,
+    "confidence": 5.2522,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "ce0c6e4fc75464f6",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02699",
+    "problem_id_b": "p02699",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 25.709,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "cc2ba782b05f9cb7",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02694",
+    "problem_id_b": "p02694",
+    "prediction_text": "yes",
+    "prob_yes": 0.7911,
+    "confidence": 1.3315,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "00a8812542b1f965",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p03162",
+    "problem_id_b": "p03162",
+    "prediction_text": "yes",
+    "prob_yes": 0.999,
+    "confidence": 6.9043,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "3f9001cfa8bc5233",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02927",
+    "problem_id_b": "p02927",
+    "prediction_text": "yes",
+    "prob_yes": 0.9975,
+    "confidence": 6.0076,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "cc590b146bbce4ab",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p03206",
+    "problem_id_b": "p03206",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 35.5787,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "1d3ae4da188f670b",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02775",
+    "problem_id_b": "p02775",
+    "prediction_text": "no",
+    "prob_yes": 0.0,
+    "confidence": 15.9714,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "0d2174cf840b2412",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02700",
+    "problem_id_b": "p02700",
+    "prediction_text": "yes",
+    "prob_yes": 0.999,
+    "confidence": 6.9414,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "564ed1af87a533a4",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02823",
+    "problem_id_b": "p02823",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 13.0134,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "0fbcbd505b1d3c41",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02775",
+    "problem_id_b": "p02775",
+    "prediction_text": "yes",
+    "prob_yes": 0.9983,
+    "confidence": 6.3826,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "f2abf3476f595eaf",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02912",
+    "problem_id_b": "p02912",
+    "prediction_text": "no",
+    "prob_yes": 0.0,
+    "confidence": 14.9486,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "d143479dfbac4e6b",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p03267",
+    "problem_id_b": "p03267",
+    "prediction_text": "yes",
+    "prob_yes": 0.9764,
+    "confidence": 3.7221,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "d1c998ef2353de01",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02881",
+    "problem_id_b": "p02881",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 10.3885,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "83154c3ad457ea50",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02881",
+    "problem_id_b": "p02881",
+    "prediction_text": "yes",
+    "prob_yes": 0.9566,
+    "confidence": 3.0927,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "a06fa215a33bee08",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02797",
+    "problem_id_b": "p02797",
+    "prediction_text": "no",
+    "prob_yes": 0.0,
+    "confidence": 11.8779,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "a8aa956b9b182333",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02612",
+    "problem_id_b": "p02612",
+    "prediction_text": "yes",
+    "prob_yes": 0.9966,
+    "confidence": 5.6903,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "5ee1ed3797bb7f82",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02852",
+    "problem_id_b": "p02852",
+    "prediction_text": "yes",
+    "prob_yes": 0.9958,
+    "confidence": 5.4769,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "4be8b29379dd07ea",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02912",
+    "problem_id_b": "p02912",
+    "prediction_text": "no",
+    "prob_yes": 0.0,
+    "confidence": 12.4447,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "e0b582e93b387c92",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02685",
+    "problem_id_b": "p02685",
+    "prediction_text": "no",
+    "prob_yes": 0.0003,
+    "confidence": 8.0455,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "c36ffa71fa31369b",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02419",
+    "problem_id_b": "p02419",
+    "prediction_text": "yes",
+    "prob_yes": 0.9971,
+    "confidence": 5.853,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "da27bbea7c12f628",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02957",
+    "problem_id_b": "p02957",
+    "prediction_text": "yes",
+    "prob_yes": 0.9997,
+    "confidence": 8.2604,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "64cd0a7ea8dc185d",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02985",
+    "problem_id_b": "p02985",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 18.4362,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "dd2090f388da40ec",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02640",
+    "problem_id_b": "p02640",
+    "prediction_text": "yes",
+    "prob_yes": 0.9836,
+    "confidence": 4.0932,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "371b105939b07fb3",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p03315",
+    "problem_id_b": "p03315",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 10.6481,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "9327bff2b2dd7f0a",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p03315",
+    "problem_id_b": "p03315",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 13.3936,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "01efdb57336c5634",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02701",
+    "problem_id_b": "p02701",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 14.2203,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "710db48c0f809268",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02912",
+    "problem_id_b": "p02912",
+    "prediction_text": "no",
+    "prob_yes": 0.0026,
+    "confidence": 5.9611,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "55cfe6a8b86a2eff",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p03162",
+    "problem_id_b": "p03162",
+    "prediction_text": "no",
+    "prob_yes": 0.0002,
+    "confidence": 8.3625,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "ffa25cfd4c837579",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p03131",
+    "problem_id_b": "p03131",
+    "prediction_text": "no",
+    "prob_yes": 0.0027,
+    "confidence": 5.9109,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "ad5e1f144e90ef2f",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02419",
+    "problem_id_b": "p02419",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 24.6449,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "2eea874b538dd39b",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02701",
+    "problem_id_b": "p02701",
+    "prediction_text": "no",
+    "prob_yes": 0.3599,
+    "confidence": 0.5759,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "26c8defbb6cbb88d",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02852",
+    "problem_id_b": "p02852",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 11.8133,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "6518e7054642988d",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p03254",
+    "problem_id_b": "p03254",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 15.9992,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "3c455e42f79d567b",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p03262",
+    "problem_id_b": "p03262",
+    "prediction_text": "yes",
+    "prob_yes": 0.9999,
+    "confidence": 9.3197,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "7f910e213af6be4f",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02694",
+    "problem_id_b": "p02694",
+    "prediction_text": "no",
+    "prob_yes": 0.0279,
+    "confidence": 3.5513,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "267e701e7b8b4d77",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02701",
+    "problem_id_b": "p02701",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 16.1719,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "33f1e254053c6ddd",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p03131",
+    "problem_id_b": "p03131",
+    "prediction_text": "yes",
+    "prob_yes": 0.9927,
+    "confidence": 4.913,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "c7c5f09a4a7f645c",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02694",
+    "problem_id_b": "p02694",
+    "prediction_text": "yes",
+    "prob_yes": 0.9972,
+    "confidence": 5.8752,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "54bc89c2d9131446",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02985",
+    "problem_id_b": "p02985",
+    "prediction_text": "yes",
+    "prob_yes": 0.6331,
+    "confidence": 0.5453,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "a4357463b84f0533",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02694",
+    "problem_id_b": "p02694",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 10.0314,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "1dbb182908acf006",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02419",
+    "problem_id_b": "p02419",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 45.1465,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "c0516c96ebd557b0",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02699",
+    "problem_id_b": "p02699",
+    "prediction_text": "yes",
+    "prob_yes": 0.9728,
+    "confidence": 3.5778,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "1b62a884bddc0014",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02696",
+    "problem_id_b": "p02696",
+    "prediction_text": "no",
+    "prob_yes": 0.4837,
+    "confidence": 0.0651,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "468338a3cb6ee708",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p03206",
+    "problem_id_b": "p03206",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 23.5993,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "cffc132fccab7f2a",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02927",
+    "problem_id_b": "p02927",
+    "prediction_text": "no",
+    "prob_yes": 0.0021,
+    "confidence": 6.1677,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "95ed5c602e74fe96",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p03254",
+    "problem_id_b": "p03254",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 12.3775,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "39cf9fb081037eb6",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p03254",
+    "problem_id_b": "p03254",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 11.0108,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "a133fc2905aa4b15",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02985",
+    "problem_id_b": "p02985",
+    "prediction_text": "yes",
+    "prob_yes": 0.8967,
+    "confidence": 2.1614,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "4d562c0a520a5a36",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p03267",
+    "problem_id_b": "p03267",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 13.5603,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "942d9ea81cc0e14d",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02640",
+    "problem_id_b": "p02640",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 11.9182,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "73bf7189f1068016",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p03000",
+    "problem_id_b": "p03000",
+    "prediction_text": "yes",
+    "prob_yes": 0.9985,
+    "confidence": 6.5065,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "81175f8fc0028522",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02823",
+    "problem_id_b": "p02823",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 15.4474,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "ad2818405b60ec24",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p03262",
+    "problem_id_b": "p03262",
+    "prediction_text": "no",
+    "prob_yes": 0.0083,
+    "confidence": 4.7889,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "da2ab0c737c6c342",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02419",
+    "problem_id_b": "p02419",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 10.6063,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "800a520226a16139",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02612",
+    "problem_id_b": "p02612",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 12.0789,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "e3c93bd89c069364",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p03162",
+    "problem_id_b": "p03162",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 9.9161,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "f606493fe0ae0eba",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02399",
+    "problem_id_b": "p02399",
+    "prediction_text": "no",
+    "prob_yes": 0.0042,
+    "confidence": 5.4712,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "e90b7296bf5eb768",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02700",
+    "problem_id_b": "p02700",
+    "prediction_text": "yes",
+    "prob_yes": 0.5619,
+    "confidence": 0.249,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "53ebfc91902c22fe",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02775",
+    "problem_id_b": "p02775",
+    "prediction_text": "yes",
+    "prob_yes": 0.7707,
+    "confidence": 1.2121,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "b97517302220e1cf",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02685",
+    "problem_id_b": "p02685",
+    "prediction_text": "yes",
+    "prob_yes": 0.6688,
+    "confidence": 0.7029,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "7f10822e3fb7c503",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02898",
+    "problem_id_b": "p02898",
+    "prediction_text": "yes",
+    "prob_yes": 0.9999,
+    "confidence": 9.1649,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "5ca61d80a2a20f74",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02797",
+    "problem_id_b": "p02797",
+    "prediction_text": "no",
+    "prob_yes": 0.0027,
+    "confidence": 5.9302,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "f798890aeaf91de7",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02699",
+    "problem_id_b": "p02699",
+    "prediction_text": "yes",
+    "prob_yes": 0.9815,
+    "confidence": 3.973,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "7dc6ceb94995944f",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02741",
+    "problem_id_b": "p02741",
+    "prediction_text": "yes",
+    "prob_yes": 0.9962,
+    "confidence": 5.5652,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "5b58ca94c3fb740d",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02927",
+    "problem_id_b": "p02927",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 10.1288,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "db848852a17aa082",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02741",
+    "problem_id_b": "p02741",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 13.401,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "2c3c68b58d06b985",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p03293",
+    "problem_id_b": "p03293",
+    "prediction_text": "yes",
+    "prob_yes": 0.9995,
+    "confidence": 7.68,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "6f8a1d2795bd83a5",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02685",
+    "problem_id_b": "p02685",
+    "prediction_text": "yes",
+    "prob_yes": 0.9032,
+    "confidence": 2.2339,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "a6bfaf58e3627ff7",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02898",
+    "problem_id_b": "p02898",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 19.2205,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "5bab59c8014deb5d",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02685",
+    "problem_id_b": "p02685",
+    "prediction_text": "yes",
+    "prob_yes": 1.0,
+    "confidence": 11.0564,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "db107933a03d529a",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02912",
+    "problem_id_b": "p02912",
+    "prediction_text": "yes",
+    "prob_yes": 0.97,
+    "confidence": 3.4767,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "6f0cd9c5622c41bd",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p03000",
+    "problem_id_b": "p03000",
+    "prediction_text": "no",
+    "prob_yes": 0.0054,
+    "confidence": 5.2118,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "4e905e1eb870cbe1",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p03267",
+    "problem_id_b": "p03267",
+    "prediction_text": "yes",
+    "prob_yes": 0.9956,
+    "confidence": 5.4153,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "327f818630a30c9b",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02741",
+    "problem_id_b": "p02741",
+    "prediction_text": "yes",
+    "prob_yes": 0.9579,
+    "confidence": 3.1237,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "7b651a8f76a3a8bb",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p03254",
+    "problem_id_b": "p03254",
+    "prediction_text": "yes",
+    "prob_yes": 0.9999,
+    "confidence": 9.6578,
+    "meta": {
+      "model_family": "embedding-svm",
+      "encoder_model": "/root/autodl-tmp/unixcoder_local_model",
+      "input_mode": "raw-code-pair-embeddings",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  }
+]

@@ -1,0 +1,4 @@
+protocol,model,prompt_variant,error_count,effective_n,n,precision,recall,f1,tp,fp,tn,fn
+p2_preserving,deepseek-v4-flash,label_only,0,1,1,1.0,1.0,1.0,1,0,0,0
+p2_preserving,deepseek-v4-flash,evidence_guided,0,1,1,1.0,1.0,1.0,1,0,0,0
+p2_preserving,deepseek-v4-flash,conservative_off,0,1,1,0.0,0.0,0.0,0,0,0,1

@@ -1,0 +1,5 @@
+model,tag,variant_name,lang_b,n_pairs,n_original_yes,n_variant_yes,mean_prob_yes_drop,preservation_consistency_rate,overall_decision_consistency_rate
+unixcoder,phase5a,preserving,C++,25,19,14,0.13202399999999997,0.7368421052631579,0.8
+unixcoder,phase5a,preserving,Go,24,15,14,0.020929166666666665,0.9333333333333333,0.9583333333333334
+unixcoder,phase5a,preserving,JavaScript,22,14,14,0.004895454545454529,1.0,1.0
+unixcoder,phase5a,preserving,Python,23,15,12,0.03233478260869564,0.8,0.8695652173913043

@@ -1,0 +1,97 @@
+{
+  "split_dir": "/root/autodl-tmp/clean_protocol_splits_v4/p0",
+  "split_summary": {
+    "train": {
+      "rows": 4775,
+      "label_counts": {
+        "clone": 2405,
+        "nonclone": 2370
+      },
+      "lang_b_counts": {
+        "C": 465,
+        "C#": 485,
+        "C++": 480,
+        "Go": 485,
+        "JavaScript": 483,
+        "OCaml": 475,
+        "PHP": 475,
+        "Python": 472,
+        "Ruby": 482,
+        "Rust": 473
+      },
+      "unique_problem_ids": 634,
+      "unique_code_hashes": 3740,
+      "unique_pair_hashes": 4775,
+      "unique_problem_pair_templates": 600
+    },
+    "valid": {
+      "rows": 610,
+      "label_counts": {
+        "clone": 294,
+        "nonclone": 316
+      },
+      "lang_b_counts": {
+        "C": 64,
+        "C#": 57,
+        "C++": 62,
+        "Go": 55,
+        "JavaScript": 47,
+        "OCaml": 65,
+        "PHP": 63,
+        "Python": 74,
+        "Ruby": 60,
+        "Rust": 63
+      },
+      "unique_problem_ids": 434,
+      "unique_code_hashes": 931,
+      "unique_pair_hashes": 610,
+      "unique_problem_pair_templates": 393
+    },
+    "test": {
+      "rows": 615,
+      "label_counts": {
+        "clone": 301,
+        "nonclone": 314
+      },
+      "lang_b_counts": {
+        "C": 71,
+        "C#": 58,
+        "C++": 58,
+        "Go": 60,
+        "JavaScript": 70,
+        "OCaml": 60,
+        "PHP": 62,
+        "Python": 54,
+        "Ruby": 58,
+        "Rust": 64
+      },
+      "unique_problem_ids": 432,
+      "unique_code_hashes": 928,
+      "unique_pair_hashes": 615,
+      "unique_problem_pair_templates": 389
+    }
+  },
+  "overlaps": {
+    "train_valid": {
+      "problem_overlap": 434,
+      "exact_code_overlap": 583,
+      "pair_overlap": 0,
+      "problem_pair_template_overlap": 393,
+      "rows_in_right_with_code_seen_in_left": 610
+    },
+    "train_test": {
+      "problem_overlap": 432,
+      "exact_code_overlap": 573,
+      "pair_overlap": 0,
+      "problem_pair_template_overlap": 389,
+      "rows_in_right_with_code_seen_in_left": 615
+    },
+    "valid_test": {
+      "problem_overlap": 286,
+      "exact_code_overlap": 343,
+      "pair_overlap": 0,
+      "problem_pair_template_overlap": 237,
+      "rows_in_right_with_code_seen_in_left": 414
+    }
+  }
+}

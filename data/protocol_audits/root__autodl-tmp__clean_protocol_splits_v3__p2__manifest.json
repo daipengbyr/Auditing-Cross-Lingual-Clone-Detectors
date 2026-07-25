@@ -1,0 +1,74 @@
+{
+  "format": "clone-split-v1",
+  "splits": {
+    "train": "train.jsonl",
+    "valid": "valid.jsonl",
+    "test": "test.jsonl"
+  },
+  "counts": {
+    "train": 4800,
+    "valid": 600,
+    "test": 600
+  },
+  "metadata": {
+    "protocol": "P2",
+    "protocol_name": "problem-disjoint",
+    "source_input": "data/java_cn.json",
+    "train_ratio": 0.8,
+    "valid_ratio": 0.1,
+    "limit": null,
+    "split_summary": {
+      "train": {
+        "rows": 4800,
+        "clone_rows": 2400,
+        "nonclone_rows": 2400,
+        "lang_b_counts": {
+          "C": 480,
+          "C#": 480,
+          "C++": 480,
+          "Go": 480,
+          "JavaScript": 480,
+          "OCaml": 480,
+          "PHP": 480,
+          "Python": 480,
+          "Ruby": 480,
+          "Rust": 480
+        }
+      },
+      "valid": {
+        "rows": 600,
+        "clone_rows": 300,
+        "nonclone_rows": 300,
+        "lang_b_counts": {
+          "C": 60,
+          "C#": 60,
+          "C++": 60,
+          "Go": 60,
+          "JavaScript": 60,
+          "OCaml": 60,
+          "PHP": 60,
+          "Python": 60,
+          "Ruby": 60,
+          "Rust": 60
+        }
+      },
+      "test": {
+        "rows": 600,
+        "clone_rows": 300,
+        "nonclone_rows": 300,
+        "lang_b_counts": {
+          "C": 60,
+          "C#": 60,
+          "C++": 60,
+          "Go": 60,
+          "JavaScript": 60,
+          "OCaml": 60,
+          "PHP": 60,
+          "Python": 60,
+          "Ruby": 60,
+          "Rust": 60
+        }
+      }
+    }
+  }
+}

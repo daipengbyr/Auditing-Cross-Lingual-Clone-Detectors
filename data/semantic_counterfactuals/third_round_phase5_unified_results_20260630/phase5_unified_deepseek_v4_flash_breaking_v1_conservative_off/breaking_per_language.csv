@@ -1,0 +1,5 @@
+model,tag,variant_name,lang_b,n_pairs,n_original_yes,n_variant_yes,mean_prob_yes_drop,breaking_rejection_rate,overall_decision_change_rate
+deepseek_v4_flash,breaking_v1_conservative_off,breaking,C++,25,15,6,,0.8,0.6
+deepseek_v4_flash,breaking_v1_conservative_off,breaking,Go,24,15,10,,0.6666666666666666,0.625
+deepseek_v4_flash,breaking_v1_conservative_off,breaking,JavaScript,22,14,6,,0.6428571428571429,0.45454545454545453
+deepseek_v4_flash,breaking_v1_conservative_off,breaking,Python,23,15,8,,0.5333333333333333,0.391304347826087

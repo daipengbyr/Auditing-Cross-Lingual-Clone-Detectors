@@ -1,0 +1,18 @@
+{
+  "model": "unixcoder",
+  "tag": "breaking_v2_mini",
+  "breaking": {
+    "model": "unixcoder",
+    "tag": "breaking_v2_mini",
+    "variant_name": "breaking",
+    "pair_id_alignment": "row_order",
+    "n_pairs": 32,
+    "n_original_yes": 23,
+    "n_variant_yes": 23,
+    "breaking_rejection_rate": 0.0,
+    "overall_decision_change_rate": 0.0,
+    "clone_retention_after_breaking": 1.0,
+    "mean_prob_yes_drop": 0.00013437500000000428,
+    "n_clone_rejected": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "model": "unixcoder",
+  "tag": "phase5a",
+  "preserving": {
+    "model": "unixcoder",
+    "tag": "phase5a",
+    "variant_name": "preserving",
+    "pair_id_alignment": "row_order",
+    "n_pairs": 94,
+    "n_original_yes": 63,
+    "n_variant_yes": 54,
+    "preservation_consistency_rate": 0.8571428571428571,
+    "overall_decision_consistency_rate": 0.9042553191489362,
+    "clone_acceptance_drop": 0.0957446808510638,
+    "mean_prob_yes_drop": 0.04951382978723404,
+    "n_clone_lost": 9
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "model": "a4_full",
+  "tag": "phase5b",
+  "preserving": {
+    "model": "a4_full",
+    "tag": "phase5b",
+    "variant_name": "preserving",
+    "pair_id_alignment": "split_pair_id",
+    "n_pairs": 94,
+    "n_original_yes": 64,
+    "n_variant_yes": 57,
+    "preservation_consistency_rate": 0.890625,
+    "overall_decision_consistency_rate": 0.925531914893617,
+    "clone_acceptance_drop": 0.07446808510638292,
+    "mean_prob_yes_drop": 0.02575141489361702,
+    "n_clone_lost": 7
+  },
+  "breaking": {
+    "model": "a4_full",
+    "tag": "phase5b",
+    "variant_name": "breaking",
+    "pair_id_alignment": "split_pair_id",
+    "n_pairs": 94,
+    "n_original_yes": 64,
+    "n_variant_yes": 65,
+    "breaking_rejection_rate": 0.015625,
+    "overall_decision_change_rate": 0.031914893617021274,
+    "clone_retention_after_breaking": 0.984375,
+    "mean_prob_yes_drop": 0.002766670212765958,
+    "n_clone_rejected": 1
+  },
+  "contrast": {
+    "model": "a4_full",
+    "tag": "phase5b",
+    "n_shared_pairs": 94,
+    "n_original_yes_shared": 64,
+    "preserve_yes_break_no_rate": 0.015625,
+    "directional_success_rate": 0.015625,
+    "directional_failure_rate": 0.109375,
+    "preserving_yes_rate_shared": 0.890625,
+    "breaking_yes_rate_shared": 0.984375,
+    "semantic_gap": -0.09375
+  }
+}

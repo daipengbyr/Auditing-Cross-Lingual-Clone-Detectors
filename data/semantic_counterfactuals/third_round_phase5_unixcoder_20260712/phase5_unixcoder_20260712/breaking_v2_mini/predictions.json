@@ -1,0 +1,546 @@
+[
+  {
+    "pair_id": "b397b3adc660795c",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02985",
+    "problem_id_b": "p02985",
+    "prediction_text": "yes",
+    "confidence": 0.8905,
+    "prob_yes": 0.8905,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "7a8c484b99c10116",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p03267",
+    "problem_id_b": "p03267",
+    "prediction_text": "yes",
+    "confidence": 0.9283,
+    "prob_yes": 0.9283,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "b63f08a14758f764",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02701",
+    "problem_id_b": "p02701",
+    "prediction_text": "no",
+    "confidence": 0.7372,
+    "prob_yes": 0.2628,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "fcc1588fe2319bdb",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02912",
+    "problem_id_b": "p02912",
+    "prediction_text": "no",
+    "confidence": 0.54,
+    "prob_yes": 0.46,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "b4c7559c07c83547",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p03162",
+    "problem_id_b": "p03162",
+    "prediction_text": "yes",
+    "confidence": 0.9241,
+    "prob_yes": 0.9241,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "fcd919835f959037",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02399",
+    "problem_id_b": "p02399",
+    "prediction_text": "yes",
+    "confidence": 0.8546,
+    "prob_yes": 0.8546,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "e047429f011378a9",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02881",
+    "problem_id_b": "p02881",
+    "prediction_text": "no",
+    "confidence": 0.7903,
+    "prob_yes": 0.2097,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "2c3c68b58d06b985",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p03293",
+    "problem_id_b": "p03293",
+    "prediction_text": "no",
+    "confidence": 0.9174,
+    "prob_yes": 0.0826,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "fc940403a3c07e4c",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02852",
+    "problem_id_b": "p02852",
+    "prediction_text": "yes",
+    "confidence": 0.9676,
+    "prob_yes": 0.9676,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "3beefb72a125b077",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02696",
+    "problem_id_b": "p02696",
+    "prediction_text": "yes",
+    "confidence": 0.9503,
+    "prob_yes": 0.9503,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "b81b4365a9122ef5",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p03254",
+    "problem_id_b": "p03254",
+    "prediction_text": "yes",
+    "confidence": 0.9773,
+    "prob_yes": 0.9773,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "69e75a01680ce41c",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02612",
+    "problem_id_b": "p02612",
+    "prediction_text": "yes",
+    "confidence": 0.9926,
+    "prob_yes": 0.9926,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "dc4ff40812a373f5",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02898",
+    "problem_id_b": "p02898",
+    "prediction_text": "yes",
+    "confidence": 0.9891,
+    "prob_yes": 0.9891,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "91bae814e1cd8a34",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02741",
+    "problem_id_b": "p02741",
+    "prediction_text": "yes",
+    "confidence": 0.9211,
+    "prob_yes": 0.9211,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "319ca254b7749e30",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02957",
+    "problem_id_b": "p02957",
+    "prediction_text": "yes",
+    "confidence": 0.9807,
+    "prob_yes": 0.9807,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "65d8db201bbd85cc",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02640",
+    "problem_id_b": "p02640",
+    "prediction_text": "no",
+    "confidence": 0.8165,
+    "prob_yes": 0.1835,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "7f302d12d426d66e",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02912",
+    "problem_id_b": "p02912",
+    "prediction_text": "no",
+    "confidence": 0.5771,
+    "prob_yes": 0.4229,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "9f6524d9a1363793",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p03267",
+    "problem_id_b": "p03267",
+    "prediction_text": "yes",
+    "confidence": 0.9133,
+    "prob_yes": 0.9133,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "21fff7a4c3da921a",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02741",
+    "problem_id_b": "p02741",
+    "prediction_text": "yes",
+    "confidence": 0.9853,
+    "prob_yes": 0.9853,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "8df70c0da2a19104",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02694",
+    "problem_id_b": "p02694",
+    "prediction_text": "yes",
+    "confidence": 0.563,
+    "prob_yes": 0.563,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "50c1e835e7147eaf",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p03206",
+    "problem_id_b": "p03206",
+    "prediction_text": "no",
+    "confidence": 0.57,
+    "prob_yes": 0.43,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "ec8d6e952af49d10",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02699",
+    "problem_id_b": "p02699",
+    "prediction_text": "yes",
+    "confidence": 0.9894,
+    "prob_yes": 0.9894,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "5047160aa56f631d",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02927",
+    "problem_id_b": "p02927",
+    "prediction_text": "yes",
+    "confidence": 0.9913,
+    "prob_yes": 0.9913,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "34dd0ac22ba26b09",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02775",
+    "problem_id_b": "p02775",
+    "prediction_text": "yes",
+    "confidence": 0.5308,
+    "prob_yes": 0.5308,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "a217a7f67d4265d3",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p03131",
+    "problem_id_b": "p03131",
+    "prediction_text": "no",
+    "confidence": 0.8891,
+    "prob_yes": 0.1109,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "3fd1870736e02f72",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02419",
+    "problem_id_b": "p02419",
+    "prediction_text": "yes",
+    "confidence": 0.7896,
+    "prob_yes": 0.7896,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "96eed03c5a30bacf",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02741",
+    "problem_id_b": "p02741",
+    "prediction_text": "yes",
+    "confidence": 0.9852,
+    "prob_yes": 0.9852,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "d4e1a4095233cfe5",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p03254",
+    "problem_id_b": "p03254",
+    "prediction_text": "yes",
+    "confidence": 0.9844,
+    "prob_yes": 0.9844,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "9479d2d26dfe0fb1",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02927",
+    "problem_id_b": "p02927",
+    "prediction_text": "yes",
+    "confidence": 0.8234,
+    "prob_yes": 0.8234,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "7fe1db14d8243993",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02898",
+    "problem_id_b": "p02898",
+    "prediction_text": "yes",
+    "confidence": 0.9629,
+    "prob_yes": 0.9629,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "d11fc6cb82985d82",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02985",
+    "problem_id_b": "p02985",
+    "prediction_text": "yes",
+    "confidence": 0.9771,
+    "prob_yes": 0.9771,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  },
+  {
+    "pair_id": "80c146e581170b48",
+    "label": 0,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02685",
+    "problem_id_b": "p02685",
+    "prediction_text": "no",
+    "confidence": 0.928,
+    "prob_yes": 0.072,
+    "meta": {
+      "model_family": "unixcoder",
+      "input_mode": "raw-code-pair",
+      "lang_a_filter": null,
+      "lang_b_filter": null
+    }
+  }
+]

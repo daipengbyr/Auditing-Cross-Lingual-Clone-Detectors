@@ -1,0 +1,18 @@
+{
+  "model": "embedding_svm",
+  "tag": "breaking_v1",
+  "breaking": {
+    "model": "embedding_svm",
+    "tag": "breaking_v1",
+    "variant_name": "breaking",
+    "pair_id_alignment": "row_order",
+    "n_pairs": 94,
+    "n_original_yes": 71,
+    "n_variant_yes": 71,
+    "breaking_rejection_rate": 0.0,
+    "overall_decision_change_rate": 0.0,
+    "clone_retention_after_breaking": 1.0,
+    "mean_prob_yes_drop": 0.0018042553191489356,
+    "n_clone_rejected": 0
+  }
+}

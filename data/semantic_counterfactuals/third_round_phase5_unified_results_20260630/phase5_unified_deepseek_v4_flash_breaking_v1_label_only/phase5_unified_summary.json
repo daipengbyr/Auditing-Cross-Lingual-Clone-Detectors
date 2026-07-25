@@ -1,0 +1,18 @@
+{
+  "model": "deepseek_v4_flash",
+  "tag": "breaking_v1_label_only",
+  "breaking": {
+    "model": "deepseek_v4_flash",
+    "tag": "breaking_v1_label_only",
+    "variant_name": "breaking",
+    "pair_id_alignment": "split_pair_id",
+    "n_pairs": 94,
+    "n_original_yes": 59,
+    "n_variant_yes": 29,
+    "breaking_rejection_rate": 0.5932203389830508,
+    "overall_decision_change_rate": 0.425531914893617,
+    "clone_retention_after_breaking": 0.4067796610169492,
+    "mean_prob_yes_drop": null,
+    "n_clone_rejected": 35
+  }
+}

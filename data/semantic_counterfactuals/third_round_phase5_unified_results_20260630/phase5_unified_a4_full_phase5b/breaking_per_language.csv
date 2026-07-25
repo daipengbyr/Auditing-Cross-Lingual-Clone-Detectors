@@ -1,0 +1,5 @@
+model,tag,variant_name,lang_b,n_pairs,n_original_yes,n_variant_yes,mean_prob_yes_drop,breaking_rejection_rate,overall_decision_change_rate
+a4_full,phase5b,breaking,C++,25,20,20,0.00038032000000001287,0.0,0.0
+a4_full,phase5b,breaking,Go,24,16,16,0.003292249999999989,0.0,0.0
+a4_full,phase5b,breaking,JavaScript,22,15,15,0.004961181818181822,0.0,0.0
+a4_full,phase5b,breaking,Python,23,13,14,0.0027129999999999945,0.07692307692307693,0.13043478260869565

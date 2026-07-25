@@ -1,0 +1,11 @@
+{
+  "protocol": "p2_preserving",
+  "model": "deepseek-v4-flash",
+  "prompt_variants": [
+    "label_only",
+    "evidence_guided",
+    "conservative_off"
+  ],
+  "sample_limit": 1,
+  "output_dir": "/Users/daipeng/Documents/Codex/2026-06-15/files-mentioned-by-the-user-ws/outputs/third_round_phase5_deepseek_preserving_20260627/smoke_1"
+}

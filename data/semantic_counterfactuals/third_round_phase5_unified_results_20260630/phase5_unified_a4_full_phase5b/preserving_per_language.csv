@@ -1,0 +1,5 @@
+model,tag,variant_name,lang_b,n_pairs,n_original_yes,n_variant_yes,mean_prob_yes_drop,preservation_consistency_rate,overall_decision_consistency_rate
+a4_full,phase5b,preserving,C++,25,20,15,0.07631804,0.75,0.8
+a4_full,phase5b,preserving,Go,24,16,14,0.018714916666666647,0.875,0.9166666666666666
+a4_full,phase5b,preserving,JavaScript,22,15,15,-0.0010424999999999968,1.0,1.0
+a4_full,phase5b,preserving,Python,23,13,13,0.003759086956521732,1.0,1.0

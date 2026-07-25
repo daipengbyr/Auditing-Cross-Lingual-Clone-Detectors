@@ -1,0 +1,18 @@
+{
+  "model": "unixcoder",
+  "tag": "breaking_v1",
+  "breaking": {
+    "model": "unixcoder",
+    "tag": "breaking_v1",
+    "variant_name": "breaking",
+    "pair_id_alignment": "row_order",
+    "n_pairs": 94,
+    "n_original_yes": 63,
+    "n_variant_yes": 62,
+    "breaking_rejection_rate": 0.015873015873015872,
+    "overall_decision_change_rate": 0.010638297872340425,
+    "clone_retention_after_breaking": 0.9841269841269841,
+    "mean_prob_yes_drop": -0.0004297872340425581,
+    "n_clone_rejected": 1
+  }
+}

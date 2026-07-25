@@ -1,0 +1,74 @@
+{
+  "format": "clone-split-v1",
+  "splits": {
+    "train": "train.jsonl",
+    "valid": "valid.jsonl",
+    "test": "test.jsonl"
+  },
+  "counts": {
+    "train": 4775,
+    "valid": 610,
+    "test": 615
+  },
+  "metadata": {
+    "protocol": "P0",
+    "protocol_name": "pair-random",
+    "source_input": "data/java_cn.json",
+    "train_ratio": 0.8,
+    "valid_ratio": 0.1,
+    "limit": null,
+    "split_summary": {
+      "train": {
+        "rows": 4775,
+        "clone_rows": 2405,
+        "nonclone_rows": 2370,
+        "lang_b_counts": {
+          "C": 465,
+          "C#": 485,
+          "C++": 480,
+          "Go": 485,
+          "JavaScript": 483,
+          "OCaml": 475,
+          "PHP": 475,
+          "Python": 472,
+          "Ruby": 482,
+          "Rust": 473
+        }
+      },
+      "valid": {
+        "rows": 610,
+        "clone_rows": 294,
+        "nonclone_rows": 316,
+        "lang_b_counts": {
+          "C": 64,
+          "C#": 57,
+          "C++": 62,
+          "Go": 55,
+          "JavaScript": 47,
+          "OCaml": 65,
+          "PHP": 63,
+          "Python": 74,
+          "Ruby": 60,
+          "Rust": 63
+        }
+      },
+      "test": {
+        "rows": 615,
+        "clone_rows": 301,
+        "nonclone_rows": 314,
+        "lang_b_counts": {
+          "C": 71,
+          "C#": 58,
+          "C++": 58,
+          "Go": 60,
+          "JavaScript": 70,
+          "OCaml": 60,
+          "PHP": 62,
+          "Python": 54,
+          "Ruby": 58,
+          "Rust": 64
+        }
+      }
+    }
+  }
+}

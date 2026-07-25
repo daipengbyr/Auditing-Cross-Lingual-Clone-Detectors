@@ -1,0 +1,1412 @@
+[
+  {
+    "pair_id": "ea2433d2cff65664__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02699",
+    "problem_id_b": "p02699",
+    "prediction_text": "no",
+    "confidence": 0.983916,
+    "prob_yes": 0.016084,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "f3687bf8c6190962__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p03131",
+    "problem_id_b": "p03131",
+    "prediction_text": "yes",
+    "confidence": 0.923147,
+    "prob_yes": 0.923147,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "45b8e3ac55c656a5__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p03000",
+    "problem_id_b": "p03000",
+    "prediction_text": "no",
+    "confidence": 0.530236,
+    "prob_yes": 0.469764,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "45bfd695fa7f23ee__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02823",
+    "problem_id_b": "p02823",
+    "prediction_text": "yes",
+    "confidence": 0.913077,
+    "prob_yes": 0.913077,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "5f8926c61109288e__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02741",
+    "problem_id_b": "p02741",
+    "prediction_text": "no",
+    "confidence": 0.879522,
+    "prob_yes": 0.120478,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "95e313b105763103__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p03267",
+    "problem_id_b": "p03267",
+    "prediction_text": "yes",
+    "confidence": 0.616472,
+    "prob_yes": 0.616472,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "6f15a2a012df4794__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p03262",
+    "problem_id_b": "p03262",
+    "prediction_text": "yes",
+    "confidence": 0.886987,
+    "prob_yes": 0.886987,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "4a338c0ee00e93ff__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02852",
+    "problem_id_b": "p02852",
+    "prediction_text": "yes",
+    "confidence": 0.555533,
+    "prob_yes": 0.555533,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "cca4ff22383c99c0__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p03254",
+    "problem_id_b": "p03254",
+    "prediction_text": "yes",
+    "confidence": 0.691689,
+    "prob_yes": 0.691689,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "61ac4df01241c451__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02912",
+    "problem_id_b": "p02912",
+    "prediction_text": "no",
+    "confidence": 0.803784,
+    "prob_yes": 0.196216,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "115b20fd23d37ece__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02985",
+    "problem_id_b": "p02985",
+    "prediction_text": "yes",
+    "confidence": 0.817811,
+    "prob_yes": 0.817811,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "91e6856c58727da2__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p03315",
+    "problem_id_b": "p03315",
+    "prediction_text": "no",
+    "confidence": 0.603559,
+    "prob_yes": 0.396441,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "117ad1a0bf77f7b1__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02399",
+    "problem_id_b": "p02399",
+    "prediction_text": "no",
+    "confidence": 0.507985,
+    "prob_yes": 0.492015,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "a8332c76f4a7ceed__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02419",
+    "problem_id_b": "p02419",
+    "prediction_text": "no",
+    "confidence": 0.866494,
+    "prob_yes": 0.133506,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "530051f2f2db34d4__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02694",
+    "problem_id_b": "p02694",
+    "prediction_text": "no",
+    "confidence": 0.824582,
+    "prob_yes": 0.175418,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "c689157cf42dc511__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02696",
+    "problem_id_b": "p02696",
+    "prediction_text": "no",
+    "confidence": 0.657846,
+    "prob_yes": 0.342154,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "1ce46fd19d65fc1f__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02685",
+    "problem_id_b": "p02685",
+    "prediction_text": "yes",
+    "confidence": 0.677828,
+    "prob_yes": 0.677828,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "c3fb32bd7916b2ef__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p03162",
+    "problem_id_b": "p03162",
+    "prediction_text": "yes",
+    "confidence": 0.725289,
+    "prob_yes": 0.725289,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "028535e0d1809887__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02881",
+    "problem_id_b": "p02881",
+    "prediction_text": "yes",
+    "confidence": 0.749109,
+    "prob_yes": 0.749109,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "e52139cdb5ee23b0__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p03293",
+    "problem_id_b": "p03293",
+    "prediction_text": "yes",
+    "confidence": 0.580174,
+    "prob_yes": 0.580174,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "5c8c08fabb74b213__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02898",
+    "problem_id_b": "p02898",
+    "prediction_text": "yes",
+    "confidence": 0.734464,
+    "prob_yes": 0.734464,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "916017934a2a7d8b__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02701",
+    "problem_id_b": "p02701",
+    "prediction_text": "no",
+    "confidence": 0.511434,
+    "prob_yes": 0.488566,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "683c944b4865cb6c__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Python",
+    "problem_id_a": "p02927",
+    "problem_id_b": "p02927",
+    "prediction_text": "yes",
+    "confidence": 0.861019,
+    "prob_yes": 0.861019,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "d9bda7d86d4f2e8b__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02700",
+    "problem_id_b": "p02700",
+    "prediction_text": "yes",
+    "confidence": 0.640875,
+    "prob_yes": 0.640875,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "667c4b2bf9af3b9e__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p03315",
+    "problem_id_b": "p03315",
+    "prediction_text": "no",
+    "confidence": 0.638929,
+    "prob_yes": 0.361071,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "d0c0c43b532e1531__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p03293",
+    "problem_id_b": "p03293",
+    "prediction_text": "no",
+    "confidence": 0.572561,
+    "prob_yes": 0.427439,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "915c6b47c1804575__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02927",
+    "problem_id_b": "p02927",
+    "prediction_text": "yes",
+    "confidence": 0.734599,
+    "prob_yes": 0.734599,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "a3d07435000e7d0c__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p03254",
+    "problem_id_b": "p03254",
+    "prediction_text": "no",
+    "confidence": 0.631863,
+    "prob_yes": 0.368137,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "65026679daddd9c4__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02696",
+    "problem_id_b": "p02696",
+    "prediction_text": "yes",
+    "confidence": 0.69273,
+    "prob_yes": 0.69273,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "16c5331c15663611__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02694",
+    "problem_id_b": "p02694",
+    "prediction_text": "no",
+    "confidence": 0.686003,
+    "prob_yes": 0.313997,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "abcc347bada723a0__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02701",
+    "problem_id_b": "p02701",
+    "prediction_text": "no",
+    "confidence": 0.733241,
+    "prob_yes": 0.266759,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "da23e4f930a96b3f__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02898",
+    "problem_id_b": "p02898",
+    "prediction_text": "no",
+    "confidence": 0.504487,
+    "prob_yes": 0.495513,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "89de705cba0b2fd3__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02912",
+    "problem_id_b": "p02912",
+    "prediction_text": "yes",
+    "confidence": 0.742254,
+    "prob_yes": 0.742254,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "2909f08c30de3750__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p03262",
+    "problem_id_b": "p03262",
+    "prediction_text": "yes",
+    "confidence": 0.646982,
+    "prob_yes": 0.646982,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "79a5008344e8bc86__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02685",
+    "problem_id_b": "p02685",
+    "prediction_text": "yes",
+    "confidence": 0.587936,
+    "prob_yes": 0.587936,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "1a19456dc6fcf835__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02640",
+    "problem_id_b": "p02640",
+    "prediction_text": "yes",
+    "confidence": 0.652569,
+    "prob_yes": 0.652569,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "bd4648d43dca43e0__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p03000",
+    "problem_id_b": "p03000",
+    "prediction_text": "no",
+    "confidence": 0.561083,
+    "prob_yes": 0.438917,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "842a4c0c5615af41__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02852",
+    "problem_id_b": "p02852",
+    "prediction_text": "yes",
+    "confidence": 0.755989,
+    "prob_yes": 0.755989,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "985a9c941871beb0__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02797",
+    "problem_id_b": "p02797",
+    "prediction_text": "yes",
+    "confidence": 0.861028,
+    "prob_yes": 0.861028,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "fb99e319252f2031__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02741",
+    "problem_id_b": "p02741",
+    "prediction_text": "yes",
+    "confidence": 0.594568,
+    "prob_yes": 0.594568,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "d581815418c7e597__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02612",
+    "problem_id_b": "p02612",
+    "prediction_text": "yes",
+    "confidence": 0.780687,
+    "prob_yes": 0.780687,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "2557c26a26419c91__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02985",
+    "problem_id_b": "p02985",
+    "prediction_text": "yes",
+    "confidence": 0.866191,
+    "prob_yes": 0.866191,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "e81e53daaa872734__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02823",
+    "problem_id_b": "p02823",
+    "prediction_text": "no",
+    "confidence": 0.56504,
+    "prob_yes": 0.43496,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "252a2a6a872d7c16__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02775",
+    "problem_id_b": "p02775",
+    "prediction_text": "yes",
+    "confidence": 0.886221,
+    "prob_yes": 0.886221,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "a5880457ed30afb8__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p03162",
+    "problem_id_b": "p03162",
+    "prediction_text": "yes",
+    "confidence": 0.949943,
+    "prob_yes": 0.949943,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "6b556cb43ec86e2c__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p03267",
+    "problem_id_b": "p03267",
+    "prediction_text": "no",
+    "confidence": 0.557605,
+    "prob_yes": 0.442395,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "ce0ab7822f2dbdd2__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02419",
+    "problem_id_b": "p02419",
+    "prediction_text": "no",
+    "confidence": 0.920246,
+    "prob_yes": 0.079754,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "5fb03a234a88bb66__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "C++",
+    "problem_id_a": "p02957",
+    "problem_id_b": "p02957",
+    "prediction_text": "yes",
+    "confidence": 0.758135,
+    "prob_yes": 0.758135,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "14c63a8170301676__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p03206",
+    "problem_id_b": "p03206",
+    "prediction_text": "yes",
+    "confidence": 0.842138,
+    "prob_yes": 0.842138,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "0a7ee5cd155e0464__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02927",
+    "problem_id_b": "p02927",
+    "prediction_text": "yes",
+    "confidence": 0.945223,
+    "prob_yes": 0.945223,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "46f9156e2a6bebb6__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02912",
+    "problem_id_b": "p02912",
+    "prediction_text": "no",
+    "confidence": 0.695592,
+    "prob_yes": 0.304408,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "f30ea2ae90715f6d__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02797",
+    "problem_id_b": "p02797",
+    "prediction_text": "yes",
+    "confidence": 0.910463,
+    "prob_yes": 0.910463,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "a21cd3722e0ba534__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02985",
+    "problem_id_b": "p02985",
+    "prediction_text": "yes",
+    "confidence": 0.807001,
+    "prob_yes": 0.807001,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "2fa5a5b592becc33__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02898",
+    "problem_id_b": "p02898",
+    "prediction_text": "yes",
+    "confidence": 0.811853,
+    "prob_yes": 0.811853,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "e41cc8a5db397f54__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02699",
+    "problem_id_b": "p02699",
+    "prediction_text": "yes",
+    "confidence": 0.833918,
+    "prob_yes": 0.833918,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "c26cbadfe8ea06e1__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p03267",
+    "problem_id_b": "p03267",
+    "prediction_text": "no",
+    "confidence": 0.554318,
+    "prob_yes": 0.445682,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "288b5652bf50e0aa__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p03254",
+    "problem_id_b": "p03254",
+    "prediction_text": "yes",
+    "confidence": 0.573586,
+    "prob_yes": 0.573586,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "7beeabb7532e05bc__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p03000",
+    "problem_id_b": "p03000",
+    "prediction_text": "no",
+    "confidence": 0.679076,
+    "prob_yes": 0.320924,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "7b2f471300b303aa__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02612",
+    "problem_id_b": "p02612",
+    "prediction_text": "no",
+    "confidence": 0.800997,
+    "prob_yes": 0.199003,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "7d04aa8b4bccee7d__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02419",
+    "problem_id_b": "p02419",
+    "prediction_text": "no",
+    "confidence": 0.874172,
+    "prob_yes": 0.125828,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "1dd23961cc5137a8__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02823",
+    "problem_id_b": "p02823",
+    "prediction_text": "yes",
+    "confidence": 0.788808,
+    "prob_yes": 0.788808,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "2fd8bed5f5e180de__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02957",
+    "problem_id_b": "p02957",
+    "prediction_text": "no",
+    "confidence": 0.525759,
+    "prob_yes": 0.474241,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "e2e3ebdd8e3fcd12__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02775",
+    "problem_id_b": "p02775",
+    "prediction_text": "yes",
+    "confidence": 0.571894,
+    "prob_yes": 0.571894,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "282d2b3def29eda2__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02640",
+    "problem_id_b": "p02640",
+    "prediction_text": "yes",
+    "confidence": 0.765193,
+    "prob_yes": 0.765193,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "0369d33b9d056712__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02701",
+    "problem_id_b": "p02701",
+    "prediction_text": "no",
+    "confidence": 0.686851,
+    "prob_yes": 0.313149,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "7ef113cd6b0395bf__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02852",
+    "problem_id_b": "p02852",
+    "prediction_text": "yes",
+    "confidence": 0.609567,
+    "prob_yes": 0.609567,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "d5f3bf019e66b075__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02685",
+    "problem_id_b": "p02685",
+    "prediction_text": "no",
+    "confidence": 0.565253,
+    "prob_yes": 0.434747,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "64c5ab2f4bf9d957__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02399",
+    "problem_id_b": "p02399",
+    "prediction_text": "yes",
+    "confidence": 0.558549,
+    "prob_yes": 0.558549,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "a53b61f6bf590dc9__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02741",
+    "problem_id_b": "p02741",
+    "prediction_text": "yes",
+    "confidence": 0.633954,
+    "prob_yes": 0.633954,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "0d62e25fedf48833__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p03162",
+    "problem_id_b": "p03162",
+    "prediction_text": "yes",
+    "confidence": 0.869612,
+    "prob_yes": 0.869612,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "4f9d69cb6a94ca01__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p02694",
+    "problem_id_b": "p02694",
+    "prediction_text": "no",
+    "confidence": 0.861061,
+    "prob_yes": 0.138939,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "9debef7aaa13c827__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "Go",
+    "problem_id_a": "p03262",
+    "problem_id_b": "p03262",
+    "prediction_text": "no",
+    "confidence": 0.514738,
+    "prob_yes": 0.485262,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "089151f5e7341729__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02898",
+    "problem_id_b": "p02898",
+    "prediction_text": "yes",
+    "confidence": 0.604031,
+    "prob_yes": 0.604031,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "59256ecdbda35f77__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02912",
+    "problem_id_b": "p02912",
+    "prediction_text": "no",
+    "confidence": 0.650408,
+    "prob_yes": 0.349592,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "aea0af2dcac64e49__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02699",
+    "problem_id_b": "p02699",
+    "prediction_text": "no",
+    "confidence": 0.544569,
+    "prob_yes": 0.455431,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "35f2af3c7a290c8a__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p03206",
+    "problem_id_b": "p03206",
+    "prediction_text": "yes",
+    "confidence": 0.765532,
+    "prob_yes": 0.765532,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "fd8279e7a0d30f31__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02775",
+    "problem_id_b": "p02775",
+    "prediction_text": "yes",
+    "confidence": 0.73628,
+    "prob_yes": 0.73628,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "ecefc144f1ba506e__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02985",
+    "problem_id_b": "p02985",
+    "prediction_text": "yes",
+    "confidence": 0.759391,
+    "prob_yes": 0.759391,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "5b9ffe45cac5dcef__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p03267",
+    "problem_id_b": "p03267",
+    "prediction_text": "yes",
+    "confidence": 0.650238,
+    "prob_yes": 0.650238,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "be51e56bfd5ef570__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02419",
+    "problem_id_b": "p02419",
+    "prediction_text": "no",
+    "confidence": 0.68817,
+    "prob_yes": 0.31183,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "5a0835cb444f08ae__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p03162",
+    "problem_id_b": "p03162",
+    "prediction_text": "yes",
+    "confidence": 0.9871,
+    "prob_yes": 0.9871,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "76bc1795ffa5932c__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02797",
+    "problem_id_b": "p02797",
+    "prediction_text": "yes",
+    "confidence": 0.715405,
+    "prob_yes": 0.715405,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "0e413612fa1096d9__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02696",
+    "problem_id_b": "p02696",
+    "prediction_text": "yes",
+    "confidence": 0.706934,
+    "prob_yes": 0.706934,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "9651bda37cc192f8__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02927",
+    "problem_id_b": "p02927",
+    "prediction_text": "yes",
+    "confidence": 0.796244,
+    "prob_yes": 0.796244,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "11f877dbc473818c__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02700",
+    "problem_id_b": "p02700",
+    "prediction_text": "no",
+    "confidence": 0.571642,
+    "prob_yes": 0.428358,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "b1c2e481bebb96d8__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02881",
+    "problem_id_b": "p02881",
+    "prediction_text": "yes",
+    "confidence": 0.514331,
+    "prob_yes": 0.514331,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "9f9a3ebce5c12a17__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02685",
+    "problem_id_b": "p02685",
+    "prediction_text": "yes",
+    "confidence": 0.725455,
+    "prob_yes": 0.725455,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "da25ea3ba4cffb11__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02852",
+    "problem_id_b": "p02852",
+    "prediction_text": "no",
+    "confidence": 0.535987,
+    "prob_yes": 0.464013,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "a8deed027c254394__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p03131",
+    "problem_id_b": "p03131",
+    "prediction_text": "yes",
+    "confidence": 0.811215,
+    "prob_yes": 0.811215,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "688026d3d0aa82b9__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02741",
+    "problem_id_b": "p02741",
+    "prediction_text": "yes",
+    "confidence": 0.573863,
+    "prob_yes": 0.573863,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "e6c5532af07da126__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02694",
+    "problem_id_b": "p02694",
+    "prediction_text": "no",
+    "confidence": 0.704113,
+    "prob_yes": 0.295887,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "250ba66423b35229__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02823",
+    "problem_id_b": "p02823",
+    "prediction_text": "yes",
+    "confidence": 0.750449,
+    "prob_yes": 0.750449,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "dbcea0a9b822e338__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p03254",
+    "problem_id_b": "p03254",
+    "prediction_text": "yes",
+    "confidence": 0.801214,
+    "prob_yes": 0.801214,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  },
+  {
+    "pair_id": "ffc2d2d81dddb23d__preserve_idrename",
+    "label": 1,
+    "lang_a": "Java",
+    "lang_b": "JavaScript",
+    "problem_id_a": "p02612",
+    "problem_id_b": "p02612",
+    "prediction_text": "no",
+    "confidence": 0.596058,
+    "prob_yes": 0.403942,
+    "meta": {
+      "experiment": "a4_full_surface_lexical_phase5_preserving",
+      "selected_c": 1.0
+    }
+  }
+]

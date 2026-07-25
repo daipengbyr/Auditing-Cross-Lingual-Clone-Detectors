@@ -1,0 +1,86 @@
+{
+  "split_dir": "/root/autodl-tmp/clean_protocol_splits_v3/p3",
+  "split_summary": {
+    "train": {
+      "rows": 4320,
+      "label_counts": {
+        "clone": 2160,
+        "nonclone": 2160
+      },
+      "lang_b_counts": {
+        "C": 480,
+        "C#": 480,
+        "C++": 480,
+        "Go": 480,
+        "JavaScript": 480,
+        "OCaml": 480,
+        "PHP": 480,
+        "Python": 480,
+        "Ruby": 480
+      },
+      "unique_problem_ids": 240,
+      "unique_code_hashes": 2400,
+      "unique_pair_hashes": 4320,
+      "unique_problem_pair_templates": 2341
+    },
+    "valid": {
+      "rows": 540,
+      "label_counts": {
+        "clone": 270,
+        "nonclone": 270
+      },
+      "lang_b_counts": {
+        "C": 60,
+        "C#": 60,
+        "C++": 60,
+        "Go": 60,
+        "JavaScript": 60,
+        "OCaml": 60,
+        "PHP": 60,
+        "Python": 60,
+        "Ruby": 60
+      },
+      "unique_problem_ids": 30,
+      "unique_code_hashes": 300,
+      "unique_pair_hashes": 540,
+      "unique_problem_pair_templates": 229
+    },
+    "test": {
+      "rows": 60,
+      "label_counts": {
+        "clone": 30,
+        "nonclone": 30
+      },
+      "lang_b_counts": {
+        "Rust": 60
+      },
+      "unique_problem_ids": 30,
+      "unique_code_hashes": 60,
+      "unique_pair_hashes": 60,
+      "unique_problem_pair_templates": 60
+    }
+  },
+  "overlaps": {
+    "train_valid": {
+      "problem_overlap": 0,
+      "exact_code_overlap": 0,
+      "pair_overlap": 0,
+      "problem_pair_template_overlap": 0,
+      "rows_in_right_with_code_seen_in_left": 0
+    },
+    "train_test": {
+      "problem_overlap": 0,
+      "exact_code_overlap": 0,
+      "pair_overlap": 0,
+      "problem_pair_template_overlap": 0,
+      "rows_in_right_with_code_seen_in_left": 0
+    },
+    "valid_test": {
+      "problem_overlap": 0,
+      "exact_code_overlap": 0,
+      "pair_overlap": 0,
+      "problem_pair_template_overlap": 0,
+      "rows_in_right_with_code_seen_in_left": 0
+    }
+  }
+}

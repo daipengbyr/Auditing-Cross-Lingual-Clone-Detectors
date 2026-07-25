@@ -1,0 +1,18 @@
+{
+  "model": "a4_full",
+  "tag": "breaking_v2_mini",
+  "breaking": {
+    "model": "a4_full",
+    "tag": "breaking_v2_mini",
+    "variant_name": "breaking",
+    "pair_id_alignment": "split_pair_id",
+    "n_pairs": 32,
+    "n_original_yes": 25,
+    "n_variant_yes": 24,
+    "breaking_rejection_rate": 0.04,
+    "overall_decision_change_rate": 0.03125,
+    "clone_retention_after_breaking": 0.96,
+    "mean_prob_yes_drop": 0.002058249999999996,
+    "n_clone_rejected": 1
+  }
+}

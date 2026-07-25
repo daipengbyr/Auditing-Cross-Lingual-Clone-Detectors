@@ -1,0 +1,5 @@
+model,tag,variant_name,lang_b,n_pairs,n_original_yes,n_variant_yes,mean_prob_yes_drop,breaking_rejection_rate,overall_decision_change_rate
+embedding_svm,breaking_v1,breaking,C++,25,18,18,0.007132000000000004,0.0,0.0
+embedding_svm,breaking_v1,breaking,Go,24,19,19,-0.0019249999999999968,0.0,0.0
+embedding_svm,breaking_v1,breaking,JavaScript,22,17,17,0.005959090909090908,0.0,0.0
+embedding_svm,breaking_v1,breaking,Python,23,17,17,-0.004069565217391312,0.0,0.0

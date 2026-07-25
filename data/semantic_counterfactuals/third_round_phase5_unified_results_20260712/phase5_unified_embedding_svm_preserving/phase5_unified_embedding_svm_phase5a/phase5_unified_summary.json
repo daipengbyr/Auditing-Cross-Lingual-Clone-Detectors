@@ -1,0 +1,18 @@
+{
+  "model": "embedding_svm",
+  "tag": "phase5a",
+  "preserving": {
+    "model": "embedding_svm",
+    "tag": "phase5a",
+    "variant_name": "preserving",
+    "pair_id_alignment": "row_order",
+    "n_pairs": 94,
+    "n_original_yes": 71,
+    "n_variant_yes": 55,
+    "preservation_consistency_rate": 0.704225352112676,
+    "overall_decision_consistency_rate": 0.723404255319149,
+    "clone_acceptance_drop": 0.17021276595744683,
+    "mean_prob_yes_drop": 0.1550244680851064,
+    "n_clone_lost": 21
+  }
+}
